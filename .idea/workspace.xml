@@ -23,12 +23,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/blocks/form/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/form/_form.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/blocks/info/_info.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/info/_info.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/blocks/presentation/_presentation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/presentation/_presentation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/blocks/add-file/__btn/_add-fole__btn.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/add-file/__btn/_add-fole__btn.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/css/_var.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/_var.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +45,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/img/form" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../soft/test_trapeznikova" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -117,7 +113,8 @@
       <workItem from="1668012077934" duration="19100000" />
       <workItem from="1668067632455" duration="30000" />
       <workItem from="1668067672750" duration="2447000" />
-      <workItem from="1668070326679" duration="4123000" />
+      <workItem from="1668070326679" duration="5407000" />
+      <workItem from="1668085207735" duration="1414000" />
     </task>
     <servers />
   </component>
@@ -145,10 +142,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1668016152305" />
-    <state x="543" y="173" key="FileChooserDialogImpl" timestamp="1668069754577">
+    <state x="543" y="173" key="FileChooserDialogImpl" timestamp="1668085280027">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="543" y="173" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1668069754577" />
+    <state x="543" y="173" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1668085280027" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1668073906744">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -169,10 +166,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1668067078864" />
-    <state x="478" y="149" width="579" height="534" key="find.popup" timestamp="1668072727165">
+    <state x="478" y="149" width="579" height="534" key="find.popup" timestamp="1668090383286">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="478" y="149" width="579" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1668072727165" />
+    <state x="478" y="149" width="579" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1668090383286" />
     <state x="425" y="190" key="run.anything.popup" timestamp="1667905783240">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
