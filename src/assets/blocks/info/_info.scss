@@ -1,0 +1,55 @@
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20%;
+  gap: 20px;
+  position: relative;
+  z-index: 1;
+
+  &::after {
+    content: '';
+    height: 22px;
+    width: 110px;
+    position: absolute;
+    background-image: url("./../../../assets/img/form/points.svg");
+    background-repeat: no-repeat;
+    left: 94%;
+    transform: translateX(-36%);
+    top: 47px;
+  }
+
+  &:last-child::after {
+    display: none;
+  }
+
+  @media screen and (max-width: 1200px) {
+    & {
+      width: 32%;
+
+      &:nth-child(3) {
+        &::after {
+          display: none;
+        }
+      }
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    & {
+      width: 48%;
+      flex-direction: row;
+
+      &::after {
+        display: none;
+      }
+    }
+  }
+
+  @media screen and (max-width: 575px) {
+    & {
+      width: 100%;
+      flex-direction: row;
+    }
+  }
+}

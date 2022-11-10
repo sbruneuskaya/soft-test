@@ -1,0 +1,35 @@
+@import './../../css/var.scss';
+
+.add-file {
+  position: relative;
+  overflow: hidden;
+  min-height: 48px;
+
+  & input[type=file] {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    transform: scale(20);
+    letter-spacing: 10em;
+    -ms-transform: scale(20);
+    opacity: 0;
+    cursor: pointer;
+  }
+
+  &:hover .add-file__btn,
+  &:focus-visible .add-file__btn,
+  &:focus .add-file__btn {
+    background-color: $blue-hover;
+  }
+
+  @media screen and (max-width: 1000px) {
+    max-width: 47%;
+    width: 100%;
+  }
+
+  @media screen and (max-width: 675px) {
+    max-width: 100%;
+  }
+}

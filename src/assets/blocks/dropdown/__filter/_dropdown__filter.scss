@@ -1,0 +1,26 @@
+@import './../../../css/var.scss';
+
+.dropdown__filter {
+  transition: .3s;
+
+  &-selected {
+    padding: 10px;
+  }
+
+  &::after {
+    position: absolute;
+    top: 45%;
+    right: 13.5px;
+    content: '';
+    width: 6px;
+    height: 6px;
+    border-right: 2px solid $black;
+    border-bottom: 2px solid $black;
+    transform: rotate(45deg) translateX(-45%);
+    transition: .2s ease-in-out;
+  }
+
+  &:focus-visible {
+    outline: none;
+  }
+}

@@ -1,0 +1,17 @@
+@import './../../../css/var.scss';
+
+.info__title {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: $white;
+  max-width: 80%;
+
+  @media screen and (max-width: 768px) {
+    & {
+      max-width: 60%;
+      text-align: left;
+    }
+  }
+}

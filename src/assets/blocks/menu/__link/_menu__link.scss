@@ -1,0 +1,17 @@
+@import './../../../css/var.scss';
+
+.menu__link{
+  font-size: 13px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: $white;
+  transition: color 0.3s ease;
+
+  &:hover{
+    color: $blue;
+  }
+
+  &.menu__link_active{
+    color: $blue;
+  }
+}

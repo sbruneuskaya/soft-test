@@ -1,0 +1,30 @@
+@import './../../../css/var.scss';
+
+.range__content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+
+  &-title {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: $white;
+  }
+
+  #range-content {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: $dropdown-bg;
+  }
+
+  @media screen and (max-width: 475px) {
+    & {
+      &-title {
+        max-width: 65%;
+      }
+    }
+  }
+}

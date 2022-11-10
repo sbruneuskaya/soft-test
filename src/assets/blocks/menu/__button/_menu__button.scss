@@ -1,0 +1,25 @@
+@import '../../../css/var';
+
+.menu__button {
+  display: none;
+
+  @media screen and (max-width: 768px) {
+    & {
+      z-index: 1;
+      position: relative;
+      display: block;
+      padding: 0;
+      border: none;
+      background-color: transparent;
+    }
+
+    &_open .menu__icon-close {
+      display: block;
+    }
+
+    &_open .menu__icon-menu {
+      display: none;
+    }
+  }
+}
+

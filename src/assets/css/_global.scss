@@ -1,0 +1,42 @@
+@import './var.scss';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  scrollbar-width: thin;
+  scrollbar-color: $primary-blue $scroll-bg;
+  scrollbar-track-color: $primary-blue;
+  scrollbar-arrow-color: transparent;
+  scroll-behavior: smooth;
+
+}
+html,
+body {
+  overflow: auto;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  height: 100%;
+}
+
+html::-webkit-scrollbar,
+body::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}

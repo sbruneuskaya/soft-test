@@ -1,0 +1,12 @@
+.presentation__btns {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+
+  @media screen and (max-width: 375px) {
+    & {
+      gap: 20px;
+      flex-direction: column;
+    }
+  }
+}

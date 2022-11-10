@@ -1,0 +1,20 @@
+@import './../../../css/var.scss';
+
+
+.dropdown__switch {
+  &:checked + .dropdown__switch-filter .dropdown__select {
+    z-index: 1;
+  }
+
+  &:checked + .dropdown__switch-filter .dropdown__filter:after {
+    transform: rotate(-135deg);
+    border-right: 2px solid $white;
+    border-bottom: 2px solid $white;
+  }
+
+  &-filter {
+    width: 100%;
+    cursor: pointer;
+    outline: none;
+  }
+}

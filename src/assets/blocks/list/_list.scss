@@ -1,0 +1,15 @@
+@import './../../css/var.scss';
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+
+  &-title{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 5px;
+    color: $black;
+  }
+}

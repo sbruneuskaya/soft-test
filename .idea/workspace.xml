@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e56800e-bd6b-4148-acfc-e263acd5222a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/fonts/Lato-Bold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Lato-Bold.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/fonts/Lato-Heavy.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Lato-Heavy.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/fonts/Lato-Regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Lato-Regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/fonts/Lato-Regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Lato-Regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/fonts/Lato-Semibold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Lato-Semibold.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/fonts/Raleway-ExtraBold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Raleway-ExtraBold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/img/footer/mail.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/img/footer/qiwi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/img/footer/vk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/img/footer/web.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/img/footer/yandex.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/img/form/form-file.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/form/form-file.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/img/form/form__bg.webp" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/form/form__bg.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/img/form/points.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/form/points.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/img/info/file.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/info/file.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/img/info/mail.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/info/mail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/img/info/money.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/info/money.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/img/info/percent.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/info/percent.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/img/info/search.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/info/search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/img/menu/close.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/img/menu/menu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/img/menu/open.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/img/presentation/presentation__bg.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/js/modules/add-file.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/js/modules/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/js/modules/menu-burger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/js/modules/range.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/add-file/__btn/_add-fole__btn.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/add-file/__btn/_add-fole__btn.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/add-file/_add-file.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/add-file/_add-file.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/btn/_blue/_btn_blue.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/btn/_blue/_btn_blue.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/btn/_btn.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/btn/_btn.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/btn/_form/_btn_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/btn/_form/_btn_form.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/btn/_white/_btn_white.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/btn/_white/_btn_white.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/container/_container.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/container/_container.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/dropdown/__filter/_dropdown__filter.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/dropdown/__filter/_dropdown__filter.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/dropdown/__select/_dropdown__select.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/dropdown/__select/_dropdown__select.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/dropdown/__switch/_dropdown__switch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/dropdown/__switch/_dropdown__switch.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/dropdown/_dropdown.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/dropdown/_dropdown.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/footer/__card/_card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/footer/__card/_card.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/footer/__card/_gray/_footer__card-title_gray.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/footer/__card/_gray/_footer__card-title_gray.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/footer/__card/_white/_footer__card-title_white.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/footer/__card/_white/_footer__card-title_white.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/footer/__wrapper/_footer__wrapper.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/footer/__wrapper/_footer__wrapper.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/footer/__wrapper/_payment/_footer__wrapper_payment.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/footer/__wrapper/_payment/_footer__wrapper_payment.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/footer/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/footer/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/form/__btn/_form__btn.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/form/__btn/_form__btn.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/form/__description/_form__description.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/form/__description/_form__description.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/form/__info/_form__info.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/form/__info/_form__info.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/form/__input/_form-data__input.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/form/__input/_form-data__input.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/form/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/form/_form.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/header/__logo/_header__logo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/header/__logo/_header__logo.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/header/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/header/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/info/__circle/_info__circle.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/info/__circle/_info__circle.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/info/__title/_info__title.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/info/__title/_info__title.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/info/_info.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/info/_info.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/list/__item/_list__item.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/list/__item/_list__item.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/list/__title/_list__title.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/list/__title/_list__title.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/list/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/list/_list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/menu/__button/_menu__button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/menu/__button/_menu__button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/menu/__icon/_menu__icon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/menu/__icon/_menu__icon.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/menu/__item/_menu__item.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/menu/__item/_menu__item.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/menu/__link/_active/_menu__link_active.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/menu/__link/_active/_menu__link_active.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/menu/__link/_menu__link.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/menu/__link/_menu__link.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/menu/__list/_menu__list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/menu/__list/_menu__list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/page/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/page/_page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/presentation/__btns/_presetnation__btns.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/presentation/__btns/_presetnation__btns.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/presentation/_presentation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/presentation/_presentation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/range/__content/_range__content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/range/__content/_range__content.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/range/__input/_range__input.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/range/__input/_range__input.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blocks/range/_range.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/range/_range.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/_animation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/_animation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/_fonts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/_global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/_global.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/_normalize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/_normalize.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/_var.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/_var.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Lato-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Lato-Heavy.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Lato-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Lato-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Lato-Semibold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/Raleway-ExtraBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/footer/mail.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/footer/qiwi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/footer/vk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/footer/web.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/footer/yandex.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/form/form-file.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/form/form__bg.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/form/points.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/info/file.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/info/mail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/info/money.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/info/percent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/info/search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/menu/close.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/menu/menu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/menu/open.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/presentation/presentation__bg.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/modules/add-file.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/modules/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/modules/menu-burger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/modules/range.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/header.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2GZl4Od5SY9EwElmofzgPCLWMN6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/img/form" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\soft-test\src\assets" />
+      <recent name="D:\test-task\src\img\form" />
+      <recent name="D:\test-task\src\img\presentation" />
+      <recent name="D:\test-task\src\img\menu" />
+      <recent name="D:\test-task\src\img\footer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\soft-test\src\assets\img\form" />
+      <recent name="D:\test-task\src\fonts" />
+      <recent name="D:\test-task\src\css" />
+      <recent name="D:\test-task\src\js\modules" />
+      <recent name="D:\test-task\src\img\menu" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.deploy">
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="predeploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="predeploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.deploy" />
+        <item itemvalue="npm.predeploy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e56800e-bd6b-4148-acfc-e263acd5222a" name="Default Changelist" comment="" />
+      <created>1666603795099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666603795099</updated>
+      <workItem from="1666603796204" duration="1722000" />
+      <workItem from="1666606061391" duration="460000" />
+      <workItem from="1666606747737" duration="29305000" />
+      <workItem from="1666683017457" duration="33920000" />
+      <workItem from="1667466369254" duration="22088000" />
+      <workItem from="1667540634241" duration="81444000" />
+      <workItem from="1667986146881" duration="9543000" />
+      <workItem from="1667997298684" duration="12619000" />
+      <workItem from="1668012077934" duration="19100000" />
+      <workItem from="1668067632455" duration="30000" />
+      <workItem from="1668067672750" duration="2447000" />
+      <workItem from="1668070326679" duration="2414000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="527" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1668072045287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1668072045287" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1668016152305">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1668016152305" />
+    <state x="543" y="173" key="FileChooserDialogImpl" timestamp="1668069754577">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="543" y="173" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1668069754577" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1668070186651">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1668070186651" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1668070186651">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1668070186651" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1668070186651">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1668070186651" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1668070186651">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1668070186651" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1668067078864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1668067078864" />
+    <state x="478" y="149" width="579" height="534" key="find.popup" timestamp="1668072727165">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="149" width="579" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1668072727165" />
+    <state x="425" y="190" key="run.anything.popup" timestamp="1667905783240">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1667905783240" />
+  </component>
+</project>

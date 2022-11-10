@@ -1,0 +1,24 @@
+.footer__card {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+  &-img {
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      object-position: center;
+    }
+  }
+
+  &-title {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+  }
+}

@@ -1,0 +1,24 @@
+@import './../../../css/var.scss';
+
+.btn_blue {
+  background: $primary-blue;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: $white;
+  border-color: $white;
+  max-width: 183px;
+
+  &:hover {
+    background: $white;
+    color: $secondary-gray;
+    border-color: $gray;
+  }
+
+  @media screen and (max-width: 375px) {
+    & {
+      max-width: 100%;
+    }
+  }
+}

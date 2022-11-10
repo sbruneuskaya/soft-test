@@ -1,0 +1,29 @@
+@import './../../../css/var.scss';
+
+.menu__list {
+  display: flex;
+  align-items: center;
+  gap: 60px;
+
+  @media screen and (max-width: 768px) {
+    & {
+      flex-direction: column;
+      gap: 30px;
+      align-items: center;
+      justify-content: center;
+      position: absolute;
+      top: 0;
+      width: 100vw;
+      right: -200%;
+      background: $placeholder;
+      height: 100vh;
+      transition: all 0.3s ease;
+    }
+
+    &.menu__list_open {
+      right: 0;
+    }
+  }
+}
+
+

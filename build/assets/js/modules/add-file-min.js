@@ -1,0 +1,1 @@
+const upload=document.querySelectorAll('[name="upload"]');upload.forEach(e=>{e.addEventListener("input",()=>{let t;const n=e.files[0].name.split(".");t=n[0].length>6?"...":".";let l=n[0].substring(0,6)+t+n[1];e.previousElementSibling.textContent=l})});

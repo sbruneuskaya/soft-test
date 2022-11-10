@@ -1,0 +1,102 @@
+@import './../../css/var.scss';
+
+.form {
+  background-image: url("./../../../assets/img/form/form__bg.webp");
+  background-color: $placeholder;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  padding-top: 120px;
+  padding-bottom: 150px;
+
+  &-title {
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 43px;
+    text-transform: uppercase;
+    color: $white;
+
+    span {
+      color: $primary-blue;
+    }
+  }
+
+  &-subtitle {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: $subtitle;
+    text-align: center;
+  }
+
+  &-data {
+    margin-bottom: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+  }
+
+  @media screen and (max-width: 1250px) {
+    & {
+      padding-top: 100px;
+      padding-bottom: 130px;
+
+      &-title {
+        font-size: 32px;
+      }
+    }
+  }
+
+  @media screen and (max-width: 1230px) {
+    & {
+      &-data {
+        justify-content: center;
+      }
+    }
+  }
+
+  @media screen and (max-width: 1000px) {
+    & {
+      padding-top: 85px;
+      padding-bottom: 100px;
+
+      &-data {
+        justify-content: space-between;
+      }
+    }
+  }
+
+  @media screen and (max-width: 900px) {
+    & {
+      &-title {
+        font-size: 28px;
+      }
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    & {
+      padding-top: 70px;
+      padding-bottom: 80px;
+    }
+  }
+
+  @media screen and (max-width: 475px) {
+    & {
+      padding-top: 50px;
+      padding-bottom: 50px;
+
+      &-data {
+        gap: 15px;
+      }
+    }
+  }
+
+  @media screen and (max-width: 375px) {
+    & {
+      &-title {
+        font-size: 24px;
+      }
+    }
+  }
+}

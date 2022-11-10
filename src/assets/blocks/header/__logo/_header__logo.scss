@@ -1,0 +1,31 @@
+@import './../../../css/var.scss';
+
+.header__logo {
+  display: block;
+  font-family: 'Raleway-ExtraBold', sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 28px;
+  line-height: 33px;
+  align-items: center;
+  text-transform: uppercase;
+  color: $white;
+  text-decoration: none;
+
+  span {
+    color: $secondary-blue;
+  }
+
+  @media screen and (max-width: 768px) {
+    & {
+      font-size: 26px;
+    }
+  }
+
+  @media screen and (max-width: 480px) {
+    & {
+      font-size: 24px;
+    }
+  }
+
+}

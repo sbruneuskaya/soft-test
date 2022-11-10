@@ -1,0 +1,18 @@
+@import './../../css/var.scss';
+
+.header {
+  padding: 33.5px 0 31.5px;
+  background: $header-bg;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 5;
+
+  &-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}

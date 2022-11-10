@@ -1,0 +1,46 @@
+@import './../css/var.scss';
+
+.animation{
+  background-image: linear-gradient(
+                  to right,
+                  $blue,
+                  $blue 50%,
+                  $white 50%
+  );
+  background-size: 200% 100%;
+  background-position: -100%;
+  position: relative;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: all 0.3s ease-in-out;
+
+  &.menu__item_active{
+    color: $blue;
+    background-image:linear-gradient(
+                    to right,
+                    $blue,
+                    $blue 50%,
+                    $blue 50%
+    );
+  }
+
+  &:before {
+    content: '';
+    background: $blue;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+
+  &:hover {
+    background-position: 0;
+  }
+
+  &:hover::before {
+    width: 100%;
+  }
+}

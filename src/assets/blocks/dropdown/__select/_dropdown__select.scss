@@ -1,0 +1,95 @@
+@import './../../../css/var.scss';
+
+.dropdown__select {
+  position: absolute;
+  z-index: -1;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  height: 182px;
+  transition: .2s ease-in-out;
+  background: $select-bg;
+  border: 1px solid $scroll-bg;
+  border-radius: 0 0 3px 3px;
+  overflow-y: auto;
+
+  &-option {
+    padding: 1px 10.35px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 34px;
+    color: $white;
+    background-color: transparent;
+    -webkit-transition: .3s;
+    -o-transition: .3s;
+    transition: .3s;
+    outline: none;
+  }
+
+  &:focus-visible {
+    outline: none;
+  }
+
+  &-option:hover {
+    color: $secondary-blue;
+  }
+
+  &-viewport {
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    right: 4px;
+    top: 2.16px;
+    bottom: 3.34px;
+  }
+
+  &-content {
+    height: 100%;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+
+    .simplebar-track {
+      max-width: 7px;
+      width: 100%;
+      top: 0;
+      border-radius: 3px;
+      background-color: $scroll-bg;
+
+      &.simplebar-vertical .simplebar-scrollbar:before {
+        top: 0;
+        bottom: 0;
+      }
+    }
+
+    .simplebar-scrollbar {
+      &.simplebar-visible:before {
+        opacity: 1;
+      }
+
+      &::before {
+        background-color: $primary-blue;
+        opacity: 1;
+        left: 0;
+        position: absolute;
+        top: 0;
+        width: 100%;
+        min-height: 53px;
+      }
+    }
+
+    & {
+      overflow: auto;
+      -ms-overflow-style: none;
+      scrollbar-width: none;
+    }
+
+    &::-webkit-scrollbar {
+      width: 0;
+      height: 0;
+    }
+  }
+}

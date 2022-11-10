@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>test-task</title>
+    <meta name="keywords" content="test-task">
+    <meta name="description" content="test-task">
+    <meta property="og:site_name" content="test-task">
+    <meta property="og:title" content="test-task">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="test-task">
+    <meta property="og:image" content="test-task">
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:image:width" content="1280">
+    <meta property="og:image:height" content="720">
+    <meta property="og:url" content="test-task">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=6">
+    <link rel="prefetch" as="style" href="https://unpkg.com/simplebar@latest/dist/simplebar.css" onload="this.rel='stylesheet'"/>
+    <link rel="prefetch" as="script" href="https://unpkg.com/simplebar@latest/dist/simplebar.min.js"onload="let script = document.createElement('script'); script.src = this.href; document.body.appendChild(script);">
+    <link type="text/css" href="./assets/css/main.css" rel="stylesheet">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="icon" href="img/favicon.png">
+</head>
+
+<body class="page">
+
+<header class="header">
+    <div class="header-wrapper container">
+        <a href="/index.html" class="header__logo">LoremIpsum.<span>Net</span></a>
+        <nav class="header__menu menu">
+            <button class="menu__button" type="button" aria-label="button menu" aria-expanded="false" aria-controls="menu__list">
+                <svg class="menu__icon" aria-hidden="true">
+                    <use class="menu__icon-menu" href="assets/img/menu/menu.svg#open"></use>
+                    <use class="menu__icon-close" href="assets/img/menu/menu.svg#close"></use>
+                </svg>
+            </button>
+            <ul class="menu__list" id="menu__list">
+                <li class="menu__item">
+                    <a href="#" class="menu__link menu__link_active">Бизнес</a>
+                </li>
+                <li class="menu__item">
+                    <a href="#" class="menu__link ">О нас</a>
+                </li>
+                <li class="menu__item">
+                    <a href="#" class="menu__link">Цены</a>
+                </li>
+                <li class="menu__item">
+                    <a data-goto=".form" href="#" class="menu__link">Оформить заказ</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<main>
+    <section class="presentation">
+        <div class="container">
+            <h1 class="presentation-title">
+                <span>Lorem ipsum</span> dolor sit ametconsectetur <span>adipiscing</span>
+            </h1>
+            <div class="list presentation-wrapper">
+                <h2 class="list-title">At vero eos et accusamus et iusto odio dignissimos ducimus!</h2>
+                <ul>
+                    <li class="list__item"><span></span> Totam rem aperiam eaque ipsa</li>
+                    <li class="list__item"><span></span> Sit voluptatem accusantium doloremque laudantium</li>
+                    <li class="list__item"><span></span> Sed ut perspiciatis, unde omnis iste natus error</li>
+                </ul>
+            </div>
+            <div class="presentation__btns">
+                <button type="button" class="btn btn_blue">заказать</button>
+                <button type="button" class="btn btn_white">подробнее</button>
+            </div>
+        </div>
+    </section>
+    <section class="form">
+        <div class="form-wrapper container">
+            <div class="form__description">
+                <h2 class="form-title">Оформление <span>Заказа</span></h2>
+                <h3 class="form-subtitle">Перед заполнением формы ознакомьтесь с нашей схемой работы!</h3>
+            </div>
+            <div class="form__info form__info-wrapper">
+                <div class="info">
+                    <div class="info__circle">
+                        <div class="info__circle-img">
+                            <img src="./assets/img/info/search.png" alt="search">
+                        </div>
+                    </div>
+                    <p class="info__title">Lorem ipsum dolor sit amet</p>
+                </div>
+                <div class="info">
+                    <div class="info__circle">
+                        <div class="info__circle-img">
+                            <img src="./assets/img/info/percent.png" alt="percent">
+                        </div>
+                    </div>
+                    <p class="info__title">Сonsecteturadipiscing elit</p>
+                </div>
+                <div class="info">
+                    <div class="info__circle">
+                        <div class="info__circle-img">
+                            <img src="./assets/img/info/file.png" alt="file">
+                        </div>
+                    </div>
+                    <p class="info__title">Sed do eiusmod tempor</p>
+                </div>
+                <div class="info">
+                    <div class="info__circle">
+                        <div class="info__circle-img">
+                            <img src="./assets/img/info/mail.png" alt="mail">
+                        </div>
+                    </div>
+                    <p class="info__title">Esse cillum dolore eu fugiat</p>
+                </div>
+                <div class="info">
+                    <div class="info__circle">
+                        <div class="info__circle-img">
+                            <img src="./assets/img/info/money.png" alt="money">
+                        </div>
+                    </div>
+                    <p class="info__title">Excepteur sint occaecat cupidatat non proident</p>
+                </div>
+            </div>
+            <form action="#" class="form-data">
+                <div class="dropdown">
+                    <input type="checkbox" name="filter-switch" class="dropdown__switch" id="filter-switch" hidden/>
+                    <label for="filter-switch" class="dropdown__switch-filter">
+                        <ul class="dropdown__filter">
+                            <li class="dropdown__filter-selected">
+                                Выберите тип системы
+                            </li>
+                            <li>
+                                <div class="dropdown__select">
+                                    <div class="dropdown__select-viewport">
+                                        <ul class="dropdown__select-content" data-simplebar
+                                            data-simplebar-auto-hide="false">
+                                            <li class="dropdown__select-option">
+                                                Sed ut perspiciatis
+                                            </li>
+                                            <li class="dropdown__select-option">
+                                                Nemo enim ipsam
+                                            </li>
+                                            <li class="dropdown__select-option">
+                                                Et harum quidem
+                                            </li>
+                                            <li class="dropdown__select-option">
+                                                Temporibus autem
+                                            </li>
+                                            <li class="dropdown__select-option">
+                                                Itaque earum rerum
+                                            </li>
+                                            <li class="dropdown__select-option">
+                                                Temporibus autem
+                                            </li>
+                                            <li class="dropdown__select-option">
+                                                Itaque earum rerum
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </label>
+                </div>
+                <input aria-label="form-email" name="email" type="email" class="form-data__input"
+                       placeholder="Ваш e-mail">
+                <input aria-label="form-name" name="name" type="text" class="form-data__input"
+                       placeholder="Ваше имя">
+                <div class="range">
+                    <div class="range__content">
+                        <h4 class="range__content-title">Sed ut perspiciatis, unde omnis iste natus</h4>
+                        <div id="range-content"></div>
+                    </div>
+                    <input type="range" aria-label="range" name="range" min="0" max="100" value="75"
+                           class="range__input" id="data-range">
+                </div>
+                <div class="add-file">
+                    <button type=button class="add-file__btn">Прикрепить файл</button>
+                    <input type="file" aria-label="add-btn" name="upload">
+                </div>
+            </form>
+            <div class="form__btn">
+                <button type="submit" class="btn btn_form">Отправить</button>
+            </div>
+        </div>
+    </section>
+</main>
+
+<footer class="footer">
+    <div class="footer-wrapper container">
+        <h3 class="footer-title">© 2018 «LoremIpsum.net» Все права защищены.</h3>
+        <div class="footer__wrapper footer__wrapper_payment">
+            <div class="footer__card">
+                <div class="footer__card-img">
+                    <img src="./assets/img/footer/qiwi.svg" alt="qiwi">
+                </div>
+                <h4 class="footer__card-title footer__card-title_gray">Qiwi wallet</h4>
+            </div>
+            <div class="footer__card">
+                <div class="footer__card-img">
+                    <img src="./assets/img/footer/yandex.svg" alt="yandex">
+                </div>
+                <h4 class="footer__card-title footer__card-title_gray">Yandex Money</h4>
+            </div>
+            <div class="footer__card">
+                <div class="footer__card-img">
+                    <img src="./assets/img/footer/web.svg" alt="web">
+                </div>
+                <h4 class="footer__card-title footer__card-title_gray">Web Money</h4>
+            </div>
+        </div>
+        <div class="footer__wrapper">
+            <div class="footer__card">
+                <div class="footer__card-img">
+                    <img src="./assets/img/footer/mail.svg" alt="mail">
+                </div>
+                <a href="mailto:info@ipsum228.com" class="footer__card-title footer__card-title_white animation">info@ipsum228.com</a>
+            </div>
+            <div class="footer__card">
+                <div class="footer__card-img">
+                    <img src="./assets/img/footer/vk.svg" alt="vk">
+                </div>
+                <a href="https://vk.com/" target="_blank" class="footer__card-title footer__card-title_white animation">Мы вконтакте</a>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="./assets/js/modules/menu-burger.js" defer></script>
+<script  src="./assets/js/modules/add-file.js" defer></script>
+<script  src="./assets/js/modules/range.js" defer></script>
+<script src="./assets/js/modules/dropdown.js" defer></script>
+</body>
+</html>
