@@ -1,7 +1,9 @@
 @import './../../css/var.scss';
 
 .presentation {
-  background: url("./../../../assets/img/presentation/presentation__bg.webp") no-repeat top;
+  background-image: $presentation-bg;
+  background-position: top;
+  background-repeat: no-repeat;
   background-size: cover;
   padding-top: 203px;
   padding-bottom: 200px;

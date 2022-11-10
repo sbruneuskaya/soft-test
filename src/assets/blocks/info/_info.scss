@@ -1,3 +1,5 @@
+@import './../../css/var.scss';
+
 .info {
   display: flex;
   flex-direction: column;
@@ -12,7 +14,7 @@
     height: 22px;
     width: 110px;
     position: absolute;
-    background-image: url("./../../../assets/img/form/points.svg");
+    background-image: $points;
     background-repeat: no-repeat;
     left: 94%;
     transform: translateX(-36%);

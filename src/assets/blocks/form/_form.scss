@@ -1,7 +1,7 @@
 @import './../../css/var.scss';
 
 .form {
-  background-image: url("./../../../assets/img/form/form__bg.webp");
+  background-image: $form-bg;
   background-color: $placeholder;
   background-repeat: no-repeat;
   background-position: top;

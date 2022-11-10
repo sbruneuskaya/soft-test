@@ -21,118 +21,14 @@
   <component name="ChangeListManager">
     <list default="true" id="4e56800e-bd6b-4148-acfc-e263acd5222a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/fonts/Lato-Bold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Lato-Bold.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/fonts/Lato-Heavy.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Lato-Heavy.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/fonts/Lato-Regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Lato-Regular.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/fonts/Lato-Regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Lato-Regular.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/fonts/Lato-Semibold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Lato-Semibold.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/fonts/Raleway-ExtraBold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/fonts/Raleway-ExtraBold.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/img/footer/mail.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/img/footer/qiwi.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/img/footer/vk.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/img/footer/web.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/img/footer/yandex.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/img/form/form-file.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/form/form-file.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/img/form/form__bg.webp" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/form/form__bg.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/img/form/points.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/form/points.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/img/info/file.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/info/file.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/img/info/mail.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/info/mail.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/img/info/money.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/info/money.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/img/info/percent.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/info/percent.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/img/info/search.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/info/search.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/img/menu/close.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/img/menu/menu.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/img/menu/open.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/img/presentation/presentation__bg.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/js/modules/add-file.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/js/modules/dropdown.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/js/modules/menu-burger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/js/modules/range.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/add-file/__btn/_add-fole__btn.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/add-file/__btn/_add-fole__btn.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/add-file/_add-file.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/add-file/_add-file.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/btn/_blue/_btn_blue.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/btn/_blue/_btn_blue.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/btn/_btn.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/btn/_btn.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/btn/_form/_btn_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/btn/_form/_btn_form.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/btn/_white/_btn_white.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/btn/_white/_btn_white.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/container/_container.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/container/_container.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/dropdown/__filter/_dropdown__filter.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/dropdown/__filter/_dropdown__filter.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/dropdown/__select/_dropdown__select.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/dropdown/__select/_dropdown__select.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/dropdown/__switch/_dropdown__switch.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/dropdown/__switch/_dropdown__switch.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/dropdown/_dropdown.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/dropdown/_dropdown.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/footer/__card/_card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/footer/__card/_card.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/footer/__card/_gray/_footer__card-title_gray.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/footer/__card/_gray/_footer__card-title_gray.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/footer/__card/_white/_footer__card-title_white.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/footer/__card/_white/_footer__card-title_white.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/footer/__wrapper/_footer__wrapper.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/footer/__wrapper/_footer__wrapper.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/footer/__wrapper/_payment/_footer__wrapper_payment.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/footer/__wrapper/_payment/_footer__wrapper_payment.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/footer/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/footer/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/form/__btn/_form__btn.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/form/__btn/_form__btn.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/form/__description/_form__description.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/form/__description/_form__description.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/form/__info/_form__info.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/form/__info/_form__info.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/form/__input/_form-data__input.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/form/__input/_form-data__input.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/form/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/form/_form.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/header/__logo/_header__logo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/header/__logo/_header__logo.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/header/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/header/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/info/__circle/_info__circle.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/info/__circle/_info__circle.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/info/__title/_info__title.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/info/__title/_info__title.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/info/_info.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/info/_info.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/list/__item/_list__item.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/list/__item/_list__item.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/list/__title/_list__title.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/list/__title/_list__title.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/list/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/list/_list.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/menu/__button/_menu__button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/menu/__button/_menu__button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/menu/__icon/_menu__icon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/menu/__icon/_menu__icon.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/menu/__item/_menu__item.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/menu/__item/_menu__item.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/menu/__link/_active/_menu__link_active.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/menu/__link/_active/_menu__link_active.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/menu/__link/_menu__link.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/menu/__link/_menu__link.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/menu/__list/_menu__list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/menu/__list/_menu__list.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/page/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/page/_page.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/presentation/__btns/_presetnation__btns.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/presentation/__btns/_presetnation__btns.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/presentation/_presentation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/presentation/_presentation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/range/__content/_range__content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/range/__content/_range__content.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/range/__input/_range__input.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/range/__input/_range__input.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blocks/range/_range.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/range/_range.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/_animation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/_animation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/_fonts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/_global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/_global.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/_normalize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/_normalize.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/_var.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/_var.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Lato-Bold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Lato-Heavy.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Lato-Regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Lato-Regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Lato-Semibold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fonts/Raleway-ExtraBold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/footer/mail.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/footer/qiwi.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/footer/vk.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/footer/web.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/footer/yandex.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/form/form-file.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/form/form__bg.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/form/points.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/info/file.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/info/mail.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/info/money.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/info/percent.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/info/search.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/menu/close.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/menu/menu.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/menu/open.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/presentation/presentation__bg.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/blocks/form/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/form/_form.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/blocks/info/_info.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/info/_info.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/blocks/presentation/_presentation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/blocks/presentation/_presentation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/_var.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/_var.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/modules/add-file.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/modules/dropdown.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/modules/menu-burger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/modules/range.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/template/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/template/header.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,7 +117,7 @@
       <workItem from="1668012077934" duration="19100000" />
       <workItem from="1668067632455" duration="30000" />
       <workItem from="1668067672750" duration="2447000" />
-      <workItem from="1668070326679" duration="2414000" />
+      <workItem from="1668070326679" duration="4123000" />
     </task>
     <servers />
   </component>
@@ -253,22 +149,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="543" y="173" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1668069754577" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1668070186651">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1668073906744">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1668070186651" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1668070186651">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1668073906744" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1668073906744">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1668070186651" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1668070186651">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1668073906744" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1668073906744">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1668070186651" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1668070186651">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1668073906744" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1668073906744">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1668070186651" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1668073906744" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1668067078864">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
