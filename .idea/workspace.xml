@@ -20,13 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e56800e-bd6b-4148-acfc-e263acd5222a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/img/form/form__bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/img/form/form__bg.webp" beforeDir="false" afterPath="$PROJECT_DIR$/build/assets/img/form/form__bg.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/assets/img/presentation/presentation__bg.webp" beforeDir="false" afterPath="$PROJECT_DIR$/build/assets/img/presentation/presentation__bg.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/css/_var.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/_var.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/form/form__bg.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/presentation/presentation__bg.webp" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/presentation/presentation__bg.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/modules/dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/js/modules/dropdown.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +41,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/img/form" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -117,6 +111,7 @@
       <workItem from="1668067672750" duration="2447000" />
       <workItem from="1668070326679" duration="5407000" />
       <workItem from="1668085207735" duration="2428000" />
+      <workItem from="1668149325423" duration="22000" />
     </task>
     <servers />
   </component>
