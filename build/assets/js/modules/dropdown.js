@@ -4,7 +4,11 @@ let getDropdown = (selector, labelBtn, selectorSwitch) => {
     let label = document.querySelector(labelBtn)
     options.forEach((option) => {
         option.addEventListener('click', () => {
+            options.forEach((option) => {
+                option.classList.remove('active')
+            })
             label.textContent = option.textContent;
+            option.classList.add('active')
         })
     })
 
@@ -19,16 +23,13 @@ let getDropdown = (selector, labelBtn, selectorSwitch) => {
             toggle.parentNode.classList.remove('active')
             toggle.checked = false
         }
-
     })
-
 }
 
 let addBorder = (selector) => {
     let getSelector = document.querySelector(selector)
     getSelector.addEventListener('click', (e) => {
         const target = e.target
-
         if (target && (target.classList.contains(selector.replace(/^./, "")))) {
             target.parentNode.classList.toggle('active')
         }
@@ -37,4 +38,3 @@ let addBorder = (selector) => {
 
 addBorder('.dropdown__switch');
 getDropdown('.dropdown__select-option', '.dropdown__filter-selected', '.dropdown__switch')
-

@@ -4,7 +4,6 @@ let getDropdown = (selector, labelBtn, selectorSwitch) => {
     let label = document.querySelector(labelBtn)
     options.forEach((option) => {
         option.addEventListener('click', () => {
-            console.log(options)
             options.forEach((option) => {
                 option.classList.remove('active')
             })
